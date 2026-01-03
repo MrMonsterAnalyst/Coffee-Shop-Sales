@@ -95,10 +95,14 @@ Business-oriented data interpretation
 
 Project Structure
 Coffee-Sales-Dashboard/
-│
-├── dashboard.xlsx   # Interactive Excel dashboard
-├── pivot.xlsx       # Pivot tables and calculations
+
+
+├── dashboard + pivot table coffee shop sales.xlsx   # Interactive Excel dashboard and Pivot tables and calculations
+
+├── Coffee shop sales dashboard.png (screenshot)
+
 ├── raw_data.xlsx    # Source sales data (if included)
+
 └── README.md
 
 Use Case
