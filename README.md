@@ -101,7 +101,7 @@ Coffee-Sales-Dashboard/
 
 ├── Coffee shop sales dashboard.png (screenshot)
 
-├── raw_data.xlsx    # Source sales data (if included)
+├── raw_data.xlsx    # Source sales data
 
 └── README.md
 
