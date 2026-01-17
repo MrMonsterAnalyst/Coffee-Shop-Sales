@@ -1,4 +1,5 @@
-#Coffee Sales Analysis Dashboard (Excel)
+#Coffee Sales Analysis Dashboard Excel
+
 Tools: Excel (Pivot Tables, Power Query, Advanced Charts, Slicers)
 Domain: Retail | Food & Beverage Analytics
 
@@ -26,3 +27,5 @@ Developed by: Bharat Sinha
 Notes for Recruiters
 
 Built entirely in Excel (no VBA, no macros) Designed to mirror real business reporting dashboards Focused on clarity, performance tracking, and decision support This project demonstrates the ability to translate raw retail data into structured, actionable insights using Excel.
+
+![image alt](https://github.com/MrMonsterAnalyst/Coffee-Shop-Sales-Analysis-Excel/blob/ecc45a1fafa23666d003c0e9f347371cbe3b07a3/Coffee%20shop%20sales%20DashBoard.png)
